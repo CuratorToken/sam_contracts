@@ -18,6 +18,7 @@
     "mocha": "^8.2.1"
   },
   "dependencies": {
-    "@eth-optimism/hardhat-ovm": "^0.0.2"
+    "@eth-optimism/hardhat-ovm": "^0.0.2",
+    "@openzeppelin/contracts": "^4.1.0"
   }
 }
